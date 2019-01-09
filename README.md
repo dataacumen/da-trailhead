@@ -10,4 +10,4 @@
 Test yall!
 
 # new-branch-1 merge confilcit
-changed some stuff on this branch.
+changed some stuff on this branch. Did it again on another. Updating the confilict manually via the UI.
