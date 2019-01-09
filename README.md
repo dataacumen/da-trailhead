@@ -8,3 +8,6 @@
 
 # Git and GitHub Basics Trail
 Test yall!
+
+# new-branch-1 merge confilcit
+changed some stuff on this branch.
